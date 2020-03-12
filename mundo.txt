@@ -1,8 +1,3 @@
 Hola mundo.
-<<<<<<< HEAD
 Linea 2.
-Linea 3
-=======
-Linea 2
 Linea 3.
->>>>>>> 51100edb540a11c8a5847f96506c7de5409e70a9
